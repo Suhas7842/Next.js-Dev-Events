@@ -1,0 +1,39 @@
+{
+  "version": 1.1,
+  "atDirectives": [
+    {
+      "name": "@theme",
+      "description": "Tailwind CSS v4 theme directive"
+    },
+    {
+      "name": "@utility",
+      "description": "Tailwind CSS v4 utility directive"
+    },
+    {
+      "name": "@variant",
+      "description": "Tailwind CSS v4 variant directive"
+    },
+    {
+      "name": "@apply",
+      "description": "Tailwind CSS apply directive"
+    },
+    {
+      "name": "@layer",
+      "description": "Tailwind CSS layer directive"
+    }
+  ],
+  "properties": [
+    {
+      "name": "--color-*",
+      "description": "Custom color CSS variable"
+    },
+    {
+      "name": "--radius-*",
+      "description": "Custom radius CSS variable"
+    },
+    {
+      "name": "--font-*",
+      "description": "Custom font CSS variable"
+    }
+  ]
+}
